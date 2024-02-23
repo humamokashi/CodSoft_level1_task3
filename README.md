@@ -10,5 +10,5 @@ This is the Portfolio for CodSoft's 3rd task, showcasing the use of HTML, CSS, a
 
 ## Getting Started
 
-To view the landing page click on link [CodSoft 1st Task Landing Page](https://ashraf-g.github.io/CodSoft_level1_task1/).
+To view the Portfolio click on link [CodSoft 3rd Task Portfolio](https://humamokashi.github.io/CodSoft_level1_task3/).
 
